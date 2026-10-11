@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "region": "MO",
+  "regionName": "中国澳门",
+  "note": "days 为第 60/2000 号行政命令订定的公众假期；mandatory=true 表示同时属第 7/2008 号法律第四十四条规定的强制性假期（雇主必须让雇员休假，共 10 天）。compensatory 为公共行政工作人员的补假日，非公众假期，单独标注以示区别。",
+  "years": [
+    {
+      "year": 2024,
+      "source": "第60/2000号行政命令 及 第7/2008号法律第四十四条（澳门特区政府入口网站 2024 年公众假期表）",
+      "days": [
+        { "name": "元旦", "date": "2024-01-01", "mandatory": true },
+        { "name": "农历正月初一", "date": "2024-02-10", "mandatory": true },
+        { "name": "农历正月初二", "date": "2024-02-11", "mandatory": true },
+        { "name": "农历正月初三", "date": "2024-02-12", "mandatory": true },
+        { "name": "耶稣受难日", "date": "2024-03-29", "mandatory": false },
+        { "name": "复活节前日", "date": "2024-03-30", "mandatory": false },
+        { "name": "清明节", "date": "2024-04-04", "mandatory": true },
+        { "name": "劳动节", "date": "2024-05-01", "mandatory": true },
+        { "name": "佛诞节", "date": "2024-05-15", "mandatory": false },
+        { "name": "端午节", "date": "2024-06-10", "mandatory": false },
+        { "name": "中秋节翌日", "date": "2024-09-18", "mandatory": true },
+        { "name": "中华人民共和国国庆日", "date": "2024-10-01", "mandatory": true },
+        { "name": "国庆日翌日", "date": "2024-10-02", "mandatory": false },
+        { "name": "重阳节", "date": "2024-10-11", "mandatory": true },
+        { "name": "追思节", "date": "2024-11-02", "mandatory": false },
+        { "name": "圣母无原罪瞻礼", "date": "2024-12-08", "mandatory": false },
+        { "name": "澳门特别行政区成立纪念日", "date": "2024-12-20", "mandatory": true },
+        { "name": "冬至", "date": "2024-12-21", "mandatory": false },
+        { "name": "圣诞节前日", "date": "2024-12-24", "mandatory": false },
+        { "name": "圣诞节", "date": "2024-12-25", "mandatory": false }
+      ],
+      "compensatory": [
+        { "name": "农历正月初一的补假", "date": "2024-02-13" },
+        { "name": "农历正月初二的补假", "date": "2024-02-14" },
+        { "name": "复活节前日的补假", "date": "2024-04-01" },
+        { "name": "追思节的补假", "date": "2024-11-04" },
+        { "name": "圣母无原罪瞻礼的补假", "date": "2024-12-09" },
+        { "name": "冬至的补假", "date": "2024-12-23" }
+      ]
+    },
+    {
+      "year": 2025,
+      "source": "第60/2000号行政命令 及 第7/2008号法律第四十四条（澳门特区政府入口网站 2025 年公众假期表）",
+      "days": [
+        { "name": "元旦", "date": "2025-01-01", "mandatory": true },
+        { "name": "农历正月初一", "date": "2025-01-29", "mandatory": true },
+        { "name": "农历正月初二", "date": "2025-01-30", "mandatory": true },
+        { "name": "农历正月初三", "date": "2025-01-31", "mandatory": true },
+        { "name": "清明节", "date": "2025-04-04", "mandatory": true },
+        { "name": "耶稣受难日", "date": "2025-04-18", "mandatory": false },
+        { "name": "复活节前日", "date": "2025-04-19", "mandatory": false },
+        { "name": "劳动节", "date": "2025-05-01", "mandatory": true },
+        { "name": "佛诞节", "date": "2025-05-05", "mandatory": false },
+        { "name": "端午节", "date": "2025-05-31", "mandatory": false },
+        { "name": "中华人民共和国国庆日", "date": "2025-10-01", "mandatory": true },
+        { "name": "国庆日翌日", "date": "2025-10-02", "mandatory": false },
+        { "name": "中秋节翌日", "date": "2025-10-07", "mandatory": true },
+        { "name": "重阳节", "date": "2025-10-29", "mandatory": true },
+        { "name": "追思节", "date": "2025-11-02", "mandatory": false },
+        { "name": "圣母无原罪瞻礼", "date": "2025-12-08", "mandatory": false },
+        { "name": "澳门特别行政区成立纪念日", "date": "2025-12-20", "mandatory": true },
+        { "name": "冬至", "date": "2025-12-21", "mandatory": false },
+        { "name": "圣诞节前日", "date": "2025-12-24", "mandatory": false },
+        { "name": "圣诞节", "date": "2025-12-25", "mandatory": false }
+      ],
+      "compensatory": [
+        { "name": "复活节前日的补假", "date": "2025-04-21" },
+        { "name": "端午节的补假", "date": "2025-06-02" },
+        { "name": "追思节的补假", "date": "2025-11-03" },
+        { "name": "澳门特别行政区成立纪念日的补假", "date": "2025-12-22" },
+        { "name": "冬至的补假", "date": "2025-12-23" }
+      ]
+    },
+    {
+      "year": 2026,
+      "source": "第60/2000号行政命令 及 第7/2008号法律第四十四条（澳门特区政府入口网站 2026 年公众假期表）",
+      "days": [
+        { "name": "元旦", "date": "2026-01-01", "mandatory": true },
+        { "name": "农历正月初一", "date": "2026-02-17", "mandatory": true },
+        { "name": "农历正月初二", "date": "2026-02-18", "mandatory": true },
+        { "name": "农历正月初三", "date": "2026-02-19", "mandatory": true },
+        { "name": "耶稣受难日", "date": "2026-04-03", "mandatory": false },
+        { "name": "复活节前日", "date": "2026-04-04", "mandatory": false },
+        { "name": "清明节", "date": "2026-04-05", "mandatory": true },
+        { "name": "劳动节", "date": "2026-05-01", "mandatory": true },
+        { "name": "佛诞节", "date": "2026-05-24", "mandatory": false },
+        { "name": "端午节", "date": "2026-06-19", "mandatory": false },
+        { "name": "中秋节翌日", "date": "2026-09-26", "mandatory": true },
+        { "name": "中华人民共和国国庆日", "date": "2026-10-01", "mandatory": true },
+        { "name": "国庆日翌日", "date": "2026-10-02", "mandatory": false },
+        { "name": "重阳节", "date": "2026-10-18", "mandatory": true },
+        { "name": "追思节", "date": "2026-11-02", "mandatory": false },
+        { "name": "圣母无原罪瞻礼", "date": "2026-12-08", "mandatory": false },
+        { "name": "澳门特别行政区成立纪念日", "date": "2026-12-20", "mandatory": true },
+        { "name": "冬至", "date": "2026-12-22", "mandatory": false },
+        { "name": "圣诞节前日", "date": "2026-12-24", "mandatory": false },
+        { "name": "圣诞节", "date": "2026-12-25", "mandatory": false }
+      ],
+      "compensatory": [
+        { "name": "复活节前日的补假", "date": "2026-04-06" },
+        { "name": "清明节的补假", "date": "2026-04-07" },
+        { "name": "佛诞节的补假", "date": "2026-05-25" },
+        { "name": "中秋节翌日的补假", "date": "2026-09-28" },
+        { "name": "重阳节的补假", "date": "2026-10-19" },
+        { "name": "澳门特别行政区成立纪念日的补假", "date": "2026-12-21" }
+      ]
+    }
+  ]
+}

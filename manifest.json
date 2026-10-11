@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "2026.10.06",
+  "updatedAt": "2026-10-06",
+  "minAppVersion": 1,
+  "files": [
+    {
+      "region": "CN",
+      "path": "holidays_cn.json",
+      "sha256": "054de77042bfa4844cfe9424236587ae110762c1fbe11bfdd5931ad39093397f",
+      "bytes": 4465
+    },
+    {
+      "region": "MO",
+      "path": "holidays_mo.json",
+      "sha256": "b8a0a09b8885d27b393f0f1cf9cfa4b795914e1ff69a897afc7a32ea85e6ca96",
+      "bytes": 7089
+    }
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "note": "中国大陆与中国澳门节假日数据源。大陆依据国务院办公厅历年通知（含调休上班日）；澳门依据第 60/2000 号行政命令与第 7/2008 号法律第四十四条（区分公众假期、强制性假期与公共行政人员补假）。新增年份时，把新的年份对象追加进对应 JSON 的 years 数组，并更新本清单的 dataVersion / updatedAt / sha256 即可，客户端会按年增量并入。"
+}
